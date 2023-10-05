@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rental Blimps for High Class Clientele</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #3E2723; /* Dark Brown */
+            color: #FFD700; /* Bright Gold */
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Rental Blimps for High Class Clientele</h1>
+    <p>Content for Rental Blimps for High Class Clientele will go here.</p>
+</body>
+</html>
